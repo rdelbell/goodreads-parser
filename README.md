@@ -5,6 +5,8 @@
 ## Overview
 This tool scrapes a Goodreads group bookshelf and saves the list of books (title and author) to a CSV file. It handles pagination to collect all books across multiple pages, making it ideal for archiving or analyzing group reading lists.
 
+Sample URL: `https://www.goodreads.com/group/bookshelf/`
+
 ## Requirements
 - Python 3.x
 - `requests`
